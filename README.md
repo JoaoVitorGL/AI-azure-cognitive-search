@@ -1,7 +1,12 @@
+<h1 align="center">
+  Azure Cognitive Search 
+</h1>
+
+Criado para o desafio de projeto do bootcamp decola tech Avanade 2025 (Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados).
+
 # Criando os Recursos
 
-## Tutorial
-Acesse o link: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html#index-the-documents.
+Acesse o link do tutorial: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html#index-the-documents.
 
 ## Recursos utilizados
 
