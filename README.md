@@ -2,7 +2,7 @@
   Azure Cognitive Search 
 </h1>
 
-Criado para o desafio de projeto do bootcamp decola tech Avanade 2025 (Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados).
+Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados.
 
 # Criando os Recursos
 
